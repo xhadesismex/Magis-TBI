@@ -33,6 +33,7 @@ body {
     margin: 0;
 }
 
+
 .full-width.blue-line-section {
     background-color: #0e6fd0;
     height: 15px;
@@ -106,4 +107,32 @@ body {
 
 .black-text {
     color: black;
+}
+
+.dost-section, .dost-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #0e6fd0;
+}
+
+.blue-text{
+    color: blue;
+    font-family: bold;
+    font-size: 30px;
+}
+
+.blue-text-1{
+    color: blue;
+    font-family: bold;
+    font-size: 10px;
+    text-align: left;
+}
+
+.blue-text-facility {
+    color: blue;
+    font-family: bold;
+    font-size: 30px;
+    text-align: left;
 }
